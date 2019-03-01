@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+
 from behave import *
 from actions.Actions import Action
 
@@ -10,11 +9,11 @@ def step(context, url):
     context.actions.open_page(url)
 
 
-@then('search book "{book_name}"')
-def step(context, book_name):
-    context.book_val = ''
-    if context.book_val == '':
-        context.book_val = book_name
+@then('search book by keyword')
+def step(context):
+    context.book_val = input()
+    if context.book_val == "":
+        context.book_val = "Java"
     context.actions.search(context.book_val)
 
 
