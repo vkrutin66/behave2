@@ -11,9 +11,7 @@ def step(context, url):
 
 @then('search book by keyword')
 def step(context):
-    context.book_val = input()
-    if context.book_val == "":
-        context.book_val = "Java"
+    context.book_val = "Java"
     context.actions.search(context.book_val)
 
 
