@@ -1,113 +1,113 @@
 Open pagehttps://www.amazon.com/
 Search:Java
 Mastering Java: An Effective Project Based Approach including Web Development, Data Structures, GUI Programming and Object Oriented Programming (Beginner to Advanced)
-No author
-12.87
-4.6
-Murach's Java Programming (5th Edition)
-No author
-56.19
-4.8
+Michael B. White
+14.91
+4.5
+Java: The Ultimate Beginners Guide to Java Programming
+Steve Tale
+0.0
+2.7
 Effective Java
-(28 used & new offers)
-47.58
+Joshua Bloch
+47.57
 4.8
 Java: A Beginner's Guide, Eighth Edition
-No author
+Herbert Schildt
 23.49
 5.0
+Head First Java, 2nd Edition
+Kathy Sierra
+25.62
+4.2
 Java: The Complete Reference, Eleventh Edition
-(24 used & new offers)
+Herbert Schildt
 43.61
 0.0
-Head First Java, 2nd Edition
-(174 used & new offers)
-27.0
-4.2
 Java: A Beginner's Guide, Seventh Edition
-(92 used & new offers)
-32.78
+Herbert Schildt
+23.49
 4.5
+Murach's Java Programming (5th Edition)
+Joel Murach
+55.3
+4.8
 Core Java Volume I--Fundamentals (11th Edition)
-(71 used & new offers)
-38.31
+Cay S. Horstmann
+51.26
 4.3
-Modern Java in Action: Lambdas, streams, functional and reactive programming
-(41 used & new offers)
-52.05
-4.5
-Java: Learn Java in One Day and Learn It Well. Java for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project)
-(9 used & new offers)
-11.67
-4.4
-Java 9 Programming By Example: Your guide to software development
-No author
-44.99
-4.5
-Java: Advanced Features and Programming Techniques (Step-By-Step Java) (Volume 3)
-No author
-16.38
-4.5
-Java All-in-One For Dummies (For Dummies (Computers))
-(106 used & new offers)
-18.49
-4.4
-Learn Java in One Day and Learn It Well (Learn Coding Fast) (Volume 4)
-(9 used & new offers)
-11.09
-4.4
-Manipulating Arrays
-No author
-0.0
-2.7
-Java in a Nutshell: A Desktop Quick Reference
-(93 used & new offers)
-45.41
-5.0
 Java: The Complete Reference, Tenth Edition (Complete Reference Series)
-No author
-31.33
-4.4
-JAVA Programming
-No author
-0.0
-3.3
-Starting Out with Java: From Control Structures through Objects (6th Edition)
-(34 used offers)
-0.0
+Herbert Schildt
+46.37
 4.3
-The Lost Temple of Java
-No author
-1.99
-4.3
-Java: The Ultimate Beginners Guide to Java Programming
-No author
-2.99
-2.7
+Murach's Java Programming (5th Edition)
+Joel Murach
+55.3
+4.8
 Learning Network Programming with Java
 No author
 49.99
 4.0
+Java: Learn Java in One Day and Learn It Well. Java for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project Book 4)
+Jamie Chan
+0.0
+4.4
+Java for Beginning Beginners
+No author
+0.0
+2.7
+Modern Java in Action: Lambdas, streams, functional and reactive programming
+Raoul-Gabriel Urma
+52.05
+4.5
+Java All-in-One For Dummies (For Dummies (Computers))
+Doug Lowe
+17.57
+4.4
+Starting Out with Java: From Control Structures through Objects (6th Edition)
+Tony Gaddis
+69.99
+4.3
+JAVA Programming
+No author
+0.0
+3.3
+Java in a Nutshell: A Desktop Quick Reference
+(94 used & new offers)
+46.24
+5.0
+Learn Java in One Day and Learn It Well (Learn Coding Fast) (Volume 4)
+(9 used & new offers)
+11.09
+4.4
+Mastering Concurrency Programming with Java 9 - Second Edition: Fast, reactive and parallel application development
+No author
+49.99
+0.0
+Java 9 Programming By Example: Your guide to software development
+Peter Verhas
+44.99
+4.5
 Java is in Mastering Java: An Effective Project Based Approach including Web Development, Data Structures, GUI Programming and Object Oriented Programming (Beginner to Advanced)
-Java is in Murach's Java Programming (5th Edition)
+Java is in Java: The Ultimate Beginners Guide to Java Programming
 Java is in Effective Java
 Java is in Java: A Beginner's Guide, Eighth Edition
-Java is in Java: The Complete Reference, Eleventh Edition
 Java is in Head First Java, 2nd Edition
+Java is in Java: The Complete Reference, Eleventh Edition
 Java is in Java: A Beginner's Guide, Seventh Edition
+Java is in Murach's Java Programming (5th Edition)
 Java is in Core Java Volume I--Fundamentals (11th Edition)
-Java is in Modern Java in Action: Lambdas, streams, functional and reactive programming
-Java is in Java: Learn Java in One Day and Learn It Well. Java for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project)
-Java is in Java 9 Programming By Example: Your guide to software development
-Java is in Java: Advanced Features and Programming Techniques (Step-By-Step Java) (Volume 3)
-Java is in Java All-in-One For Dummies (For Dummies (Computers))
-Java is in Learn Java in One Day and Learn It Well (Learn Coding Fast) (Volume 4)
-Java is not in Manipulating Arrays
-Java is in Java in a Nutshell: A Desktop Quick Reference
 Java is in Java: The Complete Reference, Tenth Edition (Complete Reference Series)
-Java is not in JAVA Programming
-Java is in Starting Out with Java: From Control Structures through Objects (6th Edition)
-Java is in The Lost Temple of Java
-Java is in Java: The Ultimate Beginners Guide to Java Programming
+Java is in Murach's Java Programming (5th Edition)
 Java is in Learning Network Programming with Java
+Java is in Java: Learn Java in One Day and Learn It Well. Java for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project Book 4)
+Java is in Java for Beginning Beginners
+Java is in Modern Java in Action: Lambdas, streams, functional and reactive programming
+Java is in Java All-in-One For Dummies (For Dummies (Computers))
+Java is in Starting Out with Java: From Control Structures through Objects (6th Edition)
+Java is not in JAVA Programming
+Java is in Java in a Nutshell: A Desktop Quick Reference
+Java is in Learn Java in One Day and Learn It Well (Learn Coding Fast) (Volume 4)
+Java is in Mastering Concurrency Programming with Java 9 - Second Edition: Fast, reactive and parallel application development
+Java is in Java 9 Programming By Example: Your guide to software development
 Quit
