@@ -2,9 +2,11 @@ class Log:
     @staticmethod
     def log(val):
         if val == 'reset':
-            file = open('output/log.txt', 'w',  encoding='utf-8')
-            file.close()
+            print('Reset')
+            #file = open('output/log.txt', 'w',  encoding='utf-8')
+            #file.close()
         else:
-            file = open('output/log.txt', 'a', encoding='utf-8')
-            file.write(val + '\n')
-            file.close()
+            print(val)
+            #file = open('output/log.txt', 'a', encoding='utf-8')
+            #file.write(val + '\n')
+            #file.close()
