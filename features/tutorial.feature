@@ -1,7 +1,7 @@
 
 Feature: Checking search
 
-Scenario: Сheck some text in search results
+Scenario: Check some text in search results
 
   Given website "https://www.amazon.com/"
   Then search book "JAVA"
