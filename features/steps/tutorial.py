@@ -13,7 +13,7 @@ def step(context, url):
 
 @then('search book "{book_name}"')
 def step(context, book_name):
-    context.book_val = input()
+    context.book_val = ''
     if context.book_val == '':
         context.book_val = book_name
     context.actions.search(context.book_val)
