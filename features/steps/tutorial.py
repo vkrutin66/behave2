@@ -1,4 +1,6 @@
 
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 from behave import *
 from actions.Actions import Action
 
