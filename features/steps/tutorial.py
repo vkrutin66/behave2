@@ -1,17 +1,21 @@
 
 from behave import *
+
 from actions.Actions import Action
 
 
 @given('website "{url}"')
 def step(context, url):
-    context.actions = Action()
+    userdata = context.config.userdata
+    context.browser = userdata.get("browser")
+    context.actions = Action(context.browser)
     context.actions.open_page(url)
 
 
 @then('search book by keyword')
 def step(context):
-    context.book_val = "Java"
+    userdata = context.config.userdata
+    context.book_val = userdata.get("word")
     context.actions.search(context.book_val)
 
 

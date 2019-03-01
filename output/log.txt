@@ -1,0 +1,3 @@
+Open page https://www.amazon.com/
+Search: Ru
+Quit

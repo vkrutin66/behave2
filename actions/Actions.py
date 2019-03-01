@@ -7,17 +7,20 @@ from pages.SearchResult import SearchResult
 
 class Action:
 
-    def __init__(self):
-        self.browser = webdriver.Chrome('drivers/chromedriver.exe')
+    def __init__(self, browser):
+        if browser == "Firefox":
+            self.browser = webdriver.Firefox(executable_path=r'drivers/geckodriver.exe')
+        else:
+            self.browser = webdriver.Chrome('drivers/chromedriver.exe')
         self.browser.maximize_window()
         Log.log("reset")
 
     def open_page(self, url):
         self.browser.get(url)
-        Log.log("Open page" + url)
+        Log.log("Open page " + url)
 
     def search(self, search_value):
-        Log.log("Search:" + search_value)
+        Log.log("Search: " + search_value)
         search_page = SearchPage(self.browser)
         search_page.search(search_value)
 
